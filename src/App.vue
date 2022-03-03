@@ -12,6 +12,6 @@ let router = useRouter()
 
 <style>
   body{
-        background-color: #666666;
+        background-color: #fff;
     }
 </style>
